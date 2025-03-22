@@ -15,7 +15,7 @@ As of **March 21, 2025**, I am starting this portfolio to build and refine my sk
 ## Projects
 ### 1. [GCS to Snowflake Data Pipeline](./Project-1_GCS_to_Snowflake/README.md)
 **Tech Stack:** GCS, Snowflake, Python, SQL, Power BI  
-**Description:** A simple end-to-end data pipeline that ingests, processes, and visualizes data from Google Cloud Storage to Snowflake, then connects it to Power BI for visualization.
+**Description:** A data workflow that manually ingests data from Google Cloud Storage, processes it in Snowflake, and connects it to Power BI for visualization
 
 ---
 More projects will be added as I progress.
