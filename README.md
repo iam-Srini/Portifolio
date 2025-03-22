@@ -22,8 +22,7 @@ More projects will be added as I progress.
 
 ## Contact
 Feel free to connect with me on:
-- **GitHub:** [your_github_profile_link]
-- **LinkedIn:** [your_linkedin_profile_link]
+- **LinkedIn:** [https://www.linkedin.com/in/srinivas-reddy-marri ]
 
 Let's keep learning and evolving every day!
 
