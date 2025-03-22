@@ -9,6 +9,7 @@ Snowflake: Used for data processing and transformation using SQL.
 Power BI: Used for data visualization, creating interactive reports and dashboards.
 
 *Workflow:*
+
 Data Ingestion:
 Data is manually extracted from GCS using Snowflake connectors.
 
