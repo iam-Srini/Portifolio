@@ -7,7 +7,7 @@ Hey there, my name is **Srinivas**, and I am a Data Engineer. This is my portfol
 - **Programming:** Python, SQL
 - **Data Warehousing & Analytics:** Snowflake, BigQuery, Power BI
 - **Cloud Platforms:** Google Cloud Platform (GCS, BigQuery, DataFlow, Cloud Composer), Azure (Blob Storage)
-- **Big Data & Workflow Orchestration:** Apache Airflow, Apache Beam, Databricks
+- **Workflow Orchestration:** Apache Airflow, Apache Beam, Databricks
 
 ## Portfolio Goal
 As of **March 21, 2025**, I am starting this portfolio to build and refine my skills. This portfolio is not just to exhibit my work but to continuously improve and evolve my expertise in data engineering.
