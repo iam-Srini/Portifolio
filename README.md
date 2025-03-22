@@ -13,7 +13,7 @@ Hey there, my name is **Srinivas**, and I am a Data Engineer. This is my portfol
 As of **March 21, 2025**, I am starting this portfolio to build and refine my skills. This portfolio is not just to exhibit my work but to continuously improve and evolve my expertise in data engineering.
 
 ## Projects
-### 1. [GCS to Snowflake Data Pipeline](./PROJECT_1/README.md)
+### 1. [GCS to Snowflake Data Pipeline](./PROJECT_1/readme.md)
 **Tech Stack:** GCS, Snowflake, Python, SQL, Power BI  
 **Description:** A data workflow that manually ingests data from Google Cloud Storage, processes it in Snowflake, and connects it to Power BI for visualization
 
