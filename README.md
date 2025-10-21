@@ -1,24 +1,24 @@
-# 🧑‍💻 Srinivas Reddy Marri
+# Srinivas Reddy Marri
 
 ### Python Backend Developer | MS in Computer Science | Ex-Cognizant | Building Scalable APIs & Cloud Solutions
 
-Hi there 👋 I'm **Srinivas Reddy Marri**, a passionate **Python Backend Developer** with a strong foundation in system design, algorithms, and distributed systems. I enjoy transforming complex business problems into scalable, maintainable, and high-performance software solutions.
+Hi there I'm **Srinivas Reddy Marri**, a passionate **Python Backend Developer** with a strong foundation in system design, algorithms, and distributed systems. I enjoy transforming complex business problems into scalable, maintainable, and high-performance software solutions.
 
 I’m currently expanding my portfolio through **weekly and biweekly backend projects**—ranging from API development to data engineering pipelines—to showcase my practical expertise while exploring modern backend architectures.
 
 ---
 
-## 🎓 About Me
+## About Me
 
-- 🎓 **Master’s in Computer Science**, University of Missouri–Kansas City (GPA: 3.91/4.0, Graduated Dec 2024)  
-- 💼 **Former Software Developer at Cognizant** (Oct 2019 – Dec 2022)  
-- 🔍 Currently **seeking backend engineering opportunities**  
-- 🌐 Passionate about **FastAPI, Django, Cloud, and System Design**  
-- 🧠 Solved **150+ Leetcode problems** on algorithms, graphs, and dynamic programming  
+- **Master’s in Computer Science**, University of Missouri–Kansas City (GPA: 3.91/4.0, Graduated Dec 2024)  
+- **Former Software Developer at Cognizant** (Oct 2019 – Dec 2022)  
+- Currently **seeking backend engineering opportunities**  
+- Passionate about **FastAPI, Django, Cloud, and System Design**  
+- Solved **150+ Leetcode problems** on algorithms, graphs, and dynamic programming  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, JavaScript, SQL, Java, HTML5, CSS3, C/C#  
 **Frameworks:** Django, FastAPI, Flask, React.js, Bootstrap, Node.js  
@@ -30,7 +30,7 @@ I’m currently expanding my portfolio through **weekly and biweekly backend pro
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Demo |
 |----------|--------------|-------------|-------|
@@ -42,30 +42,30 @@ I’m currently expanding my portfolio through **weekly and biweekly backend pro
 
 ---
 
-## 💡 Professional Highlights
+## Professional Highlights
 
-- 🚀 Improved API efficiency by **up to 50%** by optimizing Django ORM queries and caching mechanisms  
-- 🧩 Designed **modular and reusable APIs** for insurance workflows (policy, claims, underwriting) at Cognizant  
-- ☁️ Integrated **AWS cloud services** (Lambda, S3, DynamoDB) for event-driven data storage and microservice scalability  
-- ⚙️ Automated CI/CD pipelines with Git, enabling **faster, error-free deployments**  
-- 🧪 Conducted unit, integration, and regression testing, reducing production issues by **40%**  
-- 🤝 Collaborated across agile teams to deliver high-quality, compliant insurance software  
-
----
-
-## 📈 Current Focus
-
-- 🔹 Developing **weekly/biweekly backend projects**  
-- 🔹 Practicing **System Design & API Architecture**  
-- 🔹 Exploring **Cloud-native development (AWS, Docker, FastAPI)**  
-- 🔹 Enhancing **Data Engineering and ETL automation** skills  
+- Improved API efficiency by **up to 50%** by optimizing Django ORM queries and caching mechanisms  
+- Designed **modular and reusable APIs** for insurance workflows (policy, claims, underwriting) at Cognizant  
+- Integrated **AWS cloud services** (Lambda, S3, DynamoDB) for event-driven data storage and microservice scalability  
+- Automated CI/CD pipelines with Git, enabling **faster, error-free deployments**  
+- Conducted unit, integration, and regression testing, reducing production issues by **40%**  
+- Collaborated across agile teams to deliver high-quality, compliant insurance software  
 
 ---
 
-## 📫 Connect with Me
+## Current Focus
 
-- 📧 **Email:** [srinivasreddy191197@gmail.com](mailto:srinivasreddy191197@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/srinivasreddy97](https://linkedin.com/in/srinivasreddy97)  
-- 💻 **GitHub:** [github.com/srinivasreddy](https://github.com/iam-Srini)
+- Developing **weekly/biweekly backend projects**  
+- Practicing **System Design & API Architecture**  
+- Exploring **Cloud-native development (AWS, Docker, FastAPI)**  
+- Enhancing **Data Engineering and ETL automation** skills  
+
+---
+
+## Connect with Me
+
+- **Email:** [srinivasreddy191197@gmail.com](mailto:srinivasreddy191197@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/srinivasreddy97](https://linkedin.com/in/srinivasreddy97)  
+- **GitHub:** [github.com/srinivasreddy](https://github.com/iam-Srini)
 
 ---
