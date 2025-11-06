@@ -35,7 +35,7 @@ I’m currently expanding my portfolio through **weekly and biweekly backend pro
 | Project | Description | Tech Stack | Demo |
 |----------|--------------|-------------|-------|
 | [Expense Tracker API](https://github.com/iam-Srini/Expense_Tracker_Api.git) | REST API for managing personal expenses with authentication, category tracking, and reporting. <br> **Learning:** JWT authentication flow, database migrations with SQLAlchemy, and containerized FastAPI deployment using Docker. | FastAPI, PostgreSQL, SQLAlchemy, JWT, Pydantic, Docker | [Live Demo](https://expense-tracker-api-i88y.onrender.com) |
-| [SmartLink](https://github.com/iam-Srini/SmartLink.git) | A professional URL shortener and analytics API for tracking clicks, devices, and geo-data. <br> **Learning:** Building analytics endpoints, integrating email verification, managing relational models with Alembic migrations, and performance optimization in FastAPI. | FastAPI, SQLAlchemy, Alembic, PostgreSQL, Uvicorn, Docker | [Expected by Oct 28](#) |
+| [SmartLink](https://github.com/iam-Srini/SmartLink.git) | A professional URL shortener and analytics API for tracking clicks, devices, and geo-data. <br> **Learning:** Building analytics endpoints, integrating email verification, managing relational models with Alembic migrations, and performance optimization in FastAPI. | FastAPI, SQLAlchemy, Alembic, PostgreSQL, Uvicorn, Docker | [Live Demo](https://smartlink-fu2v.onrender.com) |
 
 
 
