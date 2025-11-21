@@ -2,7 +2,7 @@
 
 ### Python Backend Developer | Data Engineering | Cloud-Native Systems | MS in Computer Science
 
-Hi, I’m **Srinivas Reddy Marri**, a **Python Backend Developer** with 5+ years of experience building scalable APIs, automation workflows, and distributed data pipelines. I enjoy turning complex business requirements into clean, maintainable, and high-performance backend systems.
+Hi, I’m **Srinivas Reddy Marri**, a **Python Backend Developer** with 5 years of experience building scalable APIs, automation workflows, and distributed data pipelines. I enjoy turning complex business requirements into clean, maintainable, and high-performance backend systems.
 
 I actively build **weekly and biweekly backend projects** focusing on FastAPI, AWS, ETL pipelines, and modern backend architectures.
 
