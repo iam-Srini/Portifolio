@@ -1,72 +1,75 @@
 # Srinivas Reddy Marri
 
-### Python Backend Developer | MS in Computer Science | Ex-Cognizant | Building Scalable APIs & Cloud Solutions
+### Python Backend Developer | Data Engineering | Cloud-Native Systems | MS in Computer Science
 
-Hi there I'm **Srinivas Reddy Marri**, a passionate **Python Backend Developer** with a strong foundation in system design, algorithms, and distributed systems. I enjoy transforming complex business problems into scalable, maintainable, and high-performance software solutions.
+Hi, I’m **Srinivas Reddy Marri**, a **Python Backend Developer** with 5+ years of experience building scalable APIs, automation workflows, and distributed data pipelines. I enjoy turning complex business requirements into clean, maintainable, and high-performance backend systems.
 
-I’m currently expanding my portfolio through **weekly and biweekly backend projects**—ranging from API development to data engineering pipelines—to showcase my practical expertise while exploring modern backend architectures.
+I actively build **weekly and biweekly backend projects** focusing on FastAPI, AWS, ETL pipelines, and modern backend architectures.
 
 ---
 
 ## About Me
 
-- **Master’s in Computer Science**, University of Missouri–Kansas City (GPA: 3.91/4.0, Graduated Dec 2024)  
-- **Former Software Developer at Cognizant** (Oct 2019 – Dec 2022)  
-- Currently **seeking backend engineering opportunities**  
-- Passionate about **FastAPI, Django, Cloud, and System Design**  
-- Solved **150+ Leetcode problems** on algorithms, graphs, and dynamic programming  
+- **Master’s in Computer Science**, University of Missouri–Kansas City (GPA: 3.91/4.0, Dec 2024)  
+- **3+ years at Cognizant** as a Software Developer (Insurance + Financial Data Systems)  
+- Seeking **Python Backend / Cloud / Data Engineering** opportunities  
+- Strong in **FastAPI, Django, SQL, AWS, ETL pipelines, PySpark**  
+- Solved **150+ Leetcode problems** in algorithms & data structures  
+- Passionate about cloud-native backend development and real-world systems
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, SQL, Java, HTML5, CSS3, C/C#  
-**Frameworks:** Django, FastAPI, Flask, React.js, Bootstrap, Node.js  
-**Web & APIs:** RESTful APIs, JSON, XML  
-**Databases:** PostgreSQL, MongoDB  
-**Cloud & DevOps:** AWS (Lambda, EC2, S3, DynamoDB, CloudWatch), Docker, GitHub Actions  
+**Languages:** Python, JavaScript, SQL, Java, C/C#, HTML5, CSS3  
+**Frameworks:** FastAPI, Django, Flask, React.js, Bootstrap  
+**APIs:** REST, JSON, XML  
+**Databases:** PostgreSQL, MongoDB, Snowflake, Redshift  
+**Cloud & DevOps:** AWS (Lambda, S3, EC2, Glue, DynamoDB, CloudWatch), Docker, GitHub Actions  
+**Data Engineering:** PySpark, Pandas, ETL pipelines, AWS Glue, Athena  
 **Testing & Tools:** Pytest, Selenium, Git, Jira, PyCharm, VSCode  
-**CS Fundamentals:** OOP, Data Structures, Algorithm Design, Distributed Systems  
+**CS Fundamentals:** Algorithms, OOP, Data Structures, System Design  
 
 ---
 
 ## Featured Projects
 
 | Project | Description | Tech Stack | Demo |
-|----------|--------------|-------------|-------|
-| [Expense Tracker API](https://github.com/iam-Srini/Expense_Tracker_Api.git) | REST API for managing personal expenses with authentication, category tracking, and reporting. <br> **Learning:** JWT authentication flow, database migrations with SQLAlchemy, and containerized FastAPI deployment using Docker. | FastAPI, PostgreSQL, SQLAlchemy, JWT, Pydantic, Docker | [Live Demo](https://expense-tracker-api-i88y.onrender.com) |
-| [SmartLink](https://github.com/iam-Srini/SmartLink.git) | A professional URL shortener and analytics API for tracking clicks, devices, and geo-data. <br> **Learning:** Building analytics endpoints, integrating email verification, managing relational models with Alembic migrations, and performance optimization in FastAPI. | FastAPI, SQLAlchemy, Alembic, PostgreSQL, Uvicorn, Docker | [Live Demo](https://smartlink-fu2v.onrender.com) |
+|--------|-------------|------------|------|
+| **[Expense Tracker API](https://github.com/iam-Srini/Expense_Tracker_Api.git)** | REST API for managing expenses with authentication and reporting. <br> **Focus:** JWT auth, SQLAlchemy migrations, Dockerized FastAPI deployment. | FastAPI, PostgreSQL, SQLAlchemy, JWT, Pydantic, Docker | **[Live Demo](https://expense-tracker-api-i88y.onrender.com)** |
+| **[SmartLink](https://github.com/iam-Srini/SmartLink.git)** | URL shortener + analytics API for tracking clicks, devices, and locations. <br> **Focus:** Analytics endpoints, email verification, Alembic migrations. | FastAPI, SQLAlchemy, Alembic, PostgreSQL, Docker | **[Live Demo](https://smartlink-fu2v.onrender.com)** |
+| **FriggX (In Progress)** | Cloud-based stock analytics platform for fetching, transforming, and analyzing stock data. <br> **Focus:** ETL pipelines, PySpark transforms, AWS S3/Glue workflows, FastAPI backend. | FastAPI, PySpark, AWS (S3, Glue, Lambda), PostgreSQL, Pandas, Docker | *Coming soon* |
 
-
-
-*(New projects added weekly — stay tuned!)*
+*(New backend and data-engineering projects added weekly.)*
 
 ---
 
 ## Professional Highlights
 
-- Improved API efficiency by optimizing Django ORM queries and caching mechanisms  
-- Designed **modular and reusable APIs** for insurance workflows (policy, claims, underwriting) at Cognizant  
-- Integrated **AWS cloud services** (Lambda, S3, DynamoDB) for event-driven data storage and microservice scalability  
-- Automated CI/CD pipelines with Git, enabling **faster, error-free deployments**  
-- Conducted unit, integration, and regression testing, reducing production issues by **40%**  
-- Collaborated across agile teams to deliver high-quality, compliant insurance software  
+- Built and optimized **enterprise REST APIs** using Django and FastAPI  
+- Improved API performance by **up to 50%** using ORM tuning, caching, and indexing  
+- Designed and automated **ETL pipelines** using Python, PySpark, AWS Glue & S3  
+- Implemented S3 landing zones with versioning, encryption, and secure data ingestion  
+- Automated backend tasks using **AWS Lambda + CloudWatch**, reducing manual work  
+- Standardized policy PDF generation, improving processing speed by **50%**  
+- Reduced production issues by **40%** through strong unit & integration testing  
+- Delivered scalable insurance workflows (policy, claims, endorsements) in agile teams  
 
 ---
 
 ## Current Focus
 
-- Developing **weekly/biweekly backend projects**  
-- Practicing **System Design & API Architecture**  
-- Exploring **Cloud-native development (AWS, Docker, FastAPI)**  
-- Enhancing **Data Engineering and ETL automation** skills  
+- Building advanced **FastAPI microservices**  
+- Expanding **ETL + data engineering** expertise  
+- Improving **system design & API architecture** skills  
+- Developing a **cloud-native project portfolio** with real-world use cases  
 
 ---
 
 ## Connect with Me
 
 - **Email:** [srinivasreddy191197@gmail.com](mailto:srinivasreddy191197@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/srinivasreddy97](https://linkedin.com/in/srinivasreddy97)  
-- **GitHub:** [github.com/srinivasreddy](https://github.com/iam-Srini)
+- **LinkedIn:** https://linkedin.com/in/srinivasreddy97  
+- **GitHub:** https://github.com/iam-Srini  
 
 ---
