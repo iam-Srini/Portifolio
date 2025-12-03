@@ -2,7 +2,7 @@
 
 ### Python Backend Developer | Data Engineering | Cloud-Native Systems | MS in Computer Science
 
-Hi, I’m **Srinivas Reddy Marri**, a **Python Backend Developer** with 5 years of experience building scalable APIs, automation workflows, and distributed data pipelines. I enjoy turning complex business requirements into clean, maintainable, and high-performance backend systems.
+Hi, I’m **Srinivas Reddy ***, a **Python Backend Developer** with building scalable APIs, automation workflows, and distributed data pipelines. I enjoy turning complex business requirements into clean, maintainable, and high-performance backend systems.
 
 I actively build **weekly and biweekly backend projects** focusing on FastAPI, AWS, ETL pipelines, and modern backend architectures.
 
@@ -10,8 +10,7 @@ I actively build **weekly and biweekly backend projects** focusing on FastAPI, A
 
 ## About Me
 
-- **Master’s in Computer Science**, University of Missouri–Kansas City (GPA: 3.91/4.0, Dec 2024)  
-- **3+ years at Cognizant** as a Software Developer (Insurance + Financial Data Systems)  
+]
 - Seeking **Python Backend / Cloud / Data Engineering** opportunities  
 - Strong in **FastAPI, Django, SQL, AWS, ETL pipelines, PySpark**  
 - Solved **150+ Leetcode problems** in algorithms & data structures  
@@ -68,8 +67,6 @@ I actively build **weekly and biweekly backend projects** focusing on FastAPI, A
 
 ## Connect with Me
 
-- **Email:** [srinivasreddy191197@gmail.com](mailto:srinivasreddy191197@gmail.com)  
-- **LinkedIn:** https://linkedin.com/in/srinivasreddy97  
 - **GitHub:** https://github.com/iam-Srini  
 
 ---
