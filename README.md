@@ -1,6 +1,6 @@
 # Srinivas Reddy Marri
 
-### Python Backend Developer | Data Engineering | Cloud-Native Systems | MS in Computer Science
+### Python Backend Developer | Data Engineering | Cloud-Native Systems 
 
 Hi, I’m **Srinivas Reddy**, a **Python Backend Developer** with building scalable APIs, automation workflows, and distributed data pipelines. I enjoy turning complex business requirements into clean, maintainable, and high-performance backend systems.
 
