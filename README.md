@@ -1,6 +1,6 @@
 # Srinivas Reddy Marri
 
-### Data Analyst | Data Enthusiast | Cloud & Analytics
+### Data Enthusiast | Cloud & Analytics
 
 Hi, I’m **Srinivas Reddy**, a **Data Analyst** with 5+ years of experience transforming complex datasets into actionable insights across finance and insurance domains.
 
@@ -10,7 +10,7 @@ I enjoy working with data end-to-end — from **data extraction and cleaning to 
 
 ## About Me
 
-- Seeking **Data Analyst / Data-focused roles**
+- Seeking **Data-focused roles**
 - Strong in **SQL, Python, Data Analysis, ETL pipelines**
 - Experienced in **financial analytics, trading data, and insurance systems**
 - Built **real-time data pipelines and analytics dashboards**
