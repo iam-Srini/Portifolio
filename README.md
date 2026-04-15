@@ -32,12 +32,11 @@ I enjoy working with data end-to-end — from **data extraction and cleaning to 
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Expense Tracker API** | Built backend system for expense tracking with reporting features. Focus on structured data handling and insights. | FastAPI, PostgreSQL |
-| **SmartLink** | URL analytics system tracking user engagement and behavior. | FastAPI, PostgreSQL |
-| **FriggX (In Progress)** | Stock analytics platform for data processing and insights generation. | PySpark, AWS S3, Pandas |
-
+| Project | Description | Tech Stack | Demo |
+|--------|-------------|------------|------|
+| **[Expense Tracker API](https://github.com/iam-Srini/Expense_Tracker_Api.git)** | Expense data management system with reporting and insights. <br> **Focus:** structured data storage, transformations, and analytics-ready design. | FastAPI, PostgreSQL, SQLAlchemy, Pandas, Docker | **[Live Demo](https://expense-tracker-api-i88y.onrender.com)** |
+| **[SmartLink](https://github.com/iam-Srini/SmartLink.git)** | URL analytics platform tracking user behavior, clicks, and device insights. <br> **Focus:** event tracking, analytics endpoints, and data insights. | FastAPI, SQLAlchemy, PostgreSQL, Pandas | **[Live Demo](https://smartlink-fu2v.onrender.com)** |
+| **FriggX (In Progress)** | Stock analytics platform for processing and analyzing financial data. <br> **Focus:** ETL pipelines, PySpark transformations, AWS-based data workflows. | PySpark, AWS (S3, Glue), PostgreSQL, Pandas | *Coming soon* |
 ---
 
 ## Professional Experience
