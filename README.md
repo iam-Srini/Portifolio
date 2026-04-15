@@ -1,72 +1,97 @@
 # Srinivas Reddy Marri
 
-### Python Backend Developer | Data | Cloud-Native Systems 
+### Data Analyst | Data Enthusiast | Cloud & Analytics
 
-Hi, I’m **Srinivas Reddy**, a **Python Backend Developer** with building scalable APIs, automation workflows, and distributed data pipelines. I enjoy turning complex business requirements into clean, maintainable, and high-performance backend systems.
+Hi, I’m **Srinivas Reddy**, a **Data Analyst** with 5+ years of experience transforming complex datasets into actionable insights across finance and insurance domains.
 
-I actively build **weekly and biweekly backend projects** focusing on FastAPI, AWS, ETL pipelines, and modern backend architectures.
+I enjoy working with data end-to-end — from **data extraction and cleaning to analysis, visualization, and delivering insights** that drive business decisions.
 
 ---
 
 ## About Me
 
-]
-- Seeking **Python Backend / Cloud / Data** opportunities  
-- Strong in **FastAPI, Django, SQL, AWS, ETL pipelines, PySpark**  
-- Solved **150+ Leetcode problems** in algorithms & data structures  
-- Passionate about cloud-native backend development and real-world systems
+- Seeking **Data Analyst / Data-focused roles**
+- Strong in **SQL, Python, Data Analysis, ETL pipelines**
+- Experienced in **financial analytics, trading data, and insurance systems**
+- Built **real-time data pipelines and analytics dashboards**
+- Passionate about **data storytelling and insights-driven decision making**
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, SQL, Java, C/C#, HTML5, CSS3  
-**Frameworks:** FastAPI, Django, Flask, React.js, Bootstrap  
-**APIs:** REST, JSON, XML  
-**Databases:** PostgreSQL, MongoDB, Snowflake, Redshift  
-**Cloud & DevOps:** AWS (Lambda, S3, EC2, Glue, DynamoDB, CloudWatch), Docker, GitHub Actions  
-**Data Engineering:** PySpark, Pandas, ETL pipelines, AWS Glue, Athena  
-**Testing & Tools:** Pytest, Selenium, Git, Jira, PyCharm, VSCode  
-**CS Fundamentals:** Algorithms, OOP, Data Structures, System Design  
+**Languages:** Python, SQL  
+**Data Analysis:** Pandas, Scikit-learn, Excel  
+**Visualization:** Power BI, Tableau  
+**Databases:** Snowflake  
+**Cloud & Data Platforms:** AWS S3, Azure Data Factory  
+**Data Engineering:** ETL pipelines, Data Modeling  
+**Tools:** Git, Jira  
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| **[Expense Tracker API](https://github.com/iam-Srini/Expense_Tracker_Api.git)** | REST API for managing expenses with authentication and reporting. <br> **Focus:** JWT auth, SQLAlchemy migrations, Dockerized FastAPI deployment. | FastAPI, PostgreSQL, SQLAlchemy, JWT, Pydantic, Docker | **[Live Demo](https://expense-tracker-api-i88y.onrender.com)** |
-| **[SmartLink](https://github.com/iam-Srini/SmartLink.git)** | URL shortener + analytics API for tracking clicks, devices, and locations. <br> **Focus:** Analytics endpoints, email verification, Alembic migrations. | FastAPI, SQLAlchemy, Alembic, PostgreSQL, Docker | **[Live Demo](https://smartlink-fu2v.onrender.com)** |
-| **FriggX (In Progress)** | Cloud-based stock analytics platform for fetching, transforming, and analyzing stock data. <br> **Focus:** ETL pipelines, PySpark transforms, AWS S3/Glue workflows, FastAPI backend. | FastAPI, PySpark, AWS (S3, Glue, Lambda), PostgreSQL, Pandas, Docker | *Coming soon* |
-
-*(New backend and data-engineering projects added weekly.)*
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Expense Tracker API** | Built backend system for expense tracking with reporting features. Focus on structured data handling and insights. | FastAPI, PostgreSQL |
+| **SmartLink** | URL analytics system tracking user engagement and behavior. | FastAPI, PostgreSQL |
+| **FriggX (In Progress)** | Stock analytics platform for data processing and insights generation. | PySpark, AWS S3, Pandas |
 
 ---
 
-## Professional Highlights
+## Professional Experience
 
-- Built and optimized **enterprise REST APIs** using Django and FastAPI  
-- Improved API performance by **up to 50%** using ORM tuning, caching, and indexing  
-- Designed and automated **ETL pipelines** using Python, PySpark, AWS Glue & S3  
-- Implemented S3 landing zones with versioning, encryption, and secure data ingestion  
-- Automated backend tasks using **AWS Lambda + CloudWatch**, reducing manual work  
-- Standardized policy PDF generation, improving processing speed by **50%**  
-- Reduced production issues by **40%** through strong unit & integration testing  
-- Delivered scalable insurance workflows (policy, claims, endorsements) in agile teams  
+### Data Analyst — Schonfeld (Apr 2024 – Present)
+
+- Developed **SQL queries and Python scripts** to process financial market data  
+- Built **Tableau dashboards** for portfolio managers and trading strategies  
+- Automated **daily portfolio reconciliation reports**, improving efficiency  
+- Implemented **data validation and quality checks** to ensure data accuracy  
+- Supported **quantitative trading analysis** using Pandas  
+- Designed **data models** for trading and portfolio analytics  
+- Created **Power BI dashboards** for risk monitoring  
+
+---
+
+### Data Analyst — Chubb (Oct 2019 – Nov 2022)
+
+- Built **Power BI & Tableau dashboards** for insurance KPIs  
+- Developed **SQL queries** for actuarial and risk analysis  
+- Automated **data cleaning workflows using Python (Pandas)**  
+- Built **data pipelines to AWS S3** for real-time data ingestion  
+- Conducted **fraud detection analysis** using SQL and Python  
+- Created **predictive models (Scikit-learn)** for policy renewals  
+- Maintained **data pipelines using Azure Data Factory**  
+
+---
+
+## Key Achievements
+
+- Improved **data processing efficiency through automation**  
+- Delivered **insights for financial trading and insurance analytics**  
+- Built **scalable ETL pipelines in cloud environments**  
+- Enhanced **data accuracy with strong validation processes**  
+- Enabled **data-driven decision making for business teams**  
 
 ---
 
 ## Current Focus
 
-- Building advanced **FastAPI microservices**  
-- Expanding **ETL + data engineering** expertise  
-- Improving **system design & API architecture** skills  
-- Developing a **cloud-native project portfolio** with real-world use cases  
+- Advanced **data analysis & visualization**
+- Strengthening **SQL and analytical problem solving**
+- Building **real-world analytics projects**
+- Exploring **data + AI integration**
+
+---
+
+## Education
+
+🎓 Master’s in Computer Science  
+University of Missouri Kansas City (GPA: 3.9)
 
 ---
 
 ## Connect with Me
 
-- **GitHub:** https://github.com/iam-Srini  
-
----
+- GitHub: https://github.com/iam-Srini
