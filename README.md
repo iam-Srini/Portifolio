@@ -2,7 +2,7 @@
 
 ### Data Enthusiast | Cloud & Analytics
 
-Hi, I’m **Srinivas Reddy**, a **Data Analyst** with 5+ years of experience transforming complex datasets into actionable insights across finance and insurance domains.
+Hi, I’m **Srinivas Reddy**, a **Data Enthusiast** with 5+ years of experience transforming complex datasets into actionable insights across finance and insurance domains.
 
 I enjoy working with data end-to-end — from **data extraction and cleaning to analysis, visualization, and delivering insights** that drive business decisions.
 
